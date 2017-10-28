@@ -3,21 +3,14 @@
       <!-- About Introduction -->
       <div class="section" id="introduction">
         <section class="wrapper">
-          <div class="flex-container">
-
-            <div class="main">
-          		<img class="float-left width-150" src="images/cropped-logo.png">
-            	<p>PERIGEE MANUFACTURING CO., INC. is a domestic manufacturer of screw-machined and CNC-machined fasteners and products, primarily hexagon, square, and round nuts.  In addition to specialty fasteners, we manufacture precision turned products -- including bushings, fittings, pins, spacers and other products -- to print or specification.</p>
-              <p>Our precision manufacturing processes coupled with stringent statistical process controls (SPC) are cost effective for most production volumes, precise enough for close tolerance fasteners, and allow us to satisfy the most demanding product and quality requirements.</p>
-               <a href="about.php" class="button">Perigee History</a>
-             </div>
-               <div class="aside">
-              <script type='text/javascript' src='https://libs.a2zinc.net/Common/JS/10.6.0.0/a2zWidget.js'></script><script type='text/javascript' id='exWidget'>new a2z.Widget('gM%2bM1z2efQdG%2b80vAgrVYldily4MF7jwI%2bvoQf0xjKDx%2ff%2f3oqsywXi%2fTjKM5ggR',839323,'https://libs.a2zinc.net/Common/Widgets/ExhibitorBadge.aspx',1243,524700,330,200).render();</script>
-            </div>
+      		<img class="float-left width-150" src="images/cropped-logo.png">
+        	<p>PERIGEE MANUFACTURING CO., INC. is a domestic manufacturer of screw-machined and CNC-machined fasteners and products, primarily hexagon, square, and round nuts.  In addition to specialty fasteners, we manufacture precision turned products -- including bushings, fittings, pins, spacers and other products -- to print or specification.</p>
+          <p>Our precision manufacturing processes coupled with stringent statistical process controls (SPC) are cost effective for most production volumes, precise enough for close tolerance fasteners, and allow us to satisfy the most demanding product and quality requirements.</p>
+           <a href="about.php" class="button">Perigee History</a>
         </section>
       </div>
       <!-- Product Types -->
-      <div class="section" id="product-types">
+      <div class="section blue-bg" id="product-types">
         <section class="wrapper">
   	      <div class="flex-container">
     	      <div class="flex-item">
@@ -84,9 +77,9 @@
               <p><a href="brochure.pdf" class="button">Download our brochure</a></p>
           		<div>
           			<h4>Certifications</h4>
-          			ISO 9001:2015<br>
+          			<strong>ISO 9001:2015<br>
     				    QSLM Class 2 &amp; 3<br>
-    				    CAGE 1X4X7<br>
+    				    CAGE 1X4X7</strong><br>
    			      </div>
         	  </div>
           </div>

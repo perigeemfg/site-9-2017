@@ -17,7 +17,7 @@
           <li>Thread diameter #4 (.122”) through 2” / M3 through M50</li>
           <li>Sizes ¼” to 3 ⅛” Hex (Sizes ¼” to 3 ½” Round)</li>
           <li>Slotting of customer supplied nuts</li>
-          <li>Grades manufactured (Inch): 2, 2H, 2HM, 5, 6, 6F, 7, 7M, 8, 8F, 8M; A, B, C, D, DH</li>
+          <li>Grades manufactured (Inch): 2, 2H, 2HM, 5, 6, 6F, 7, 7M, 8, 8F, 8M, A, B, C, D, DH</li>
           <li>Property Classes manufactured (Metric): 04, 05, 4, 5, 6, 8, 9, 10, 12</li>
           <li>All finishes available, to end-user specification or industry standard</li>
           <li>Full on-site inspection lab (Dimensional, Optical/Visual, Surface Finish, Hardness, Proof Load,</li>
@@ -155,7 +155,7 @@
 
         </div>
         <a name="wheel-nuts"></a>
-        <h3>Wheel Nut</h3>
+        <h3>Wheel Nuts</h3>
         <p>Perigee manufactures various styles of wheel nuts, including: ball-seat, conical-seat, shoulder seat, counterbore, piloted, and special configuration wheel nuts.</p>
         <div class="slideshow-gallery flex-container">
 
