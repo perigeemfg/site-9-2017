@@ -41,63 +41,63 @@
         <div class="slideshow-gallery flex-container">
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/01-PLANT-622-c.jpg" alt="">
+              <img src="images/gallery/slotted/sm/01-PLANT-622-c.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/02-PART-1373-Retouched-c.jpg" alt="">
+              <img src="images/gallery/slotted/sm/02-PART-1373-Retouched-c.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/03-PART-1379-Retouched-c.jpg" alt="">
+              <img src="images/gallery/slotted/sm/03-PART-1379-Retouched-c.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/04-PART-1409-Retouch.jpg" alt="">
+              <img src="images/gallery/slotted/sm/04-PART-1409-Retouch.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/05-PART.jpg" alt="">
+              <img src="images/gallery/slotted/sm/05-PART.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/06-PART-1405-Retouched-c.jpg" alt="">
+              <img src="images/gallery/slotted/sm/06-PART-1405-Retouched-c.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/07-PART-1392-Retouched-c.jpg" alt="">
+              <img src="images/gallery/slotted/sm/07-PART-1392-Retouched-c.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/08-PART-1417-Retouched-c.jpg" alt="">
+              <img src="images/gallery/slotted/sm/08-PART-1417-Retouched-c.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/09-PART-1393-Retouched-c.jpg" alt="">
+              <img src="images/gallery/slotted/sm/09-PART-1393-Retouched-c.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/10-PART-1420-Retouched-c.jpg" alt="">
+              <img src="images/gallery/slotted/sm/10-PART-1420-Retouched-c.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/slotted/11-PART-1375-Retouched-c.jpg" alt="">
+              <img src="images/gallery/slotted/sm/11-PART-1375-Retouched-c.jpg" alt="">
             </div>
           </div>
           <div class="flex-item">
             <div>
               <a href="https://goo.gl/photos/UVfEm3xJHadQ9kfy6">
-                <img src="images/gallery/slotted/12-PART-1308-Retouched-c.jpg" alt="">
+                <img src="images/gallery/slotted/sm/12-PART-1308-Retouched-c.jpg" alt="">
               </a>
               <div class="overlay"></div>
             </div>
@@ -111,43 +111,43 @@
 
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/lock-nuts/1.jpg" alt="">
+              <img src="images/gallery/lock-nuts/sm/1.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/lock-nuts/2.jpg" alt="">
+              <img src="images/gallery/lock-nuts/sm/2.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/lock-nuts/3.jpg" alt="">
+              <img src="images/gallery/lock-nuts/sm/3.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/lock-nuts/4.jpg" alt="">
+              <img src="images/gallery/lock-nuts/sm/4.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/lock-nuts/5.jpg" alt="">
+              <img src="images/gallery/lock-nuts/sm/5.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/lock-nuts/6.jpg" alt="">
+              <img src="images/gallery/lock-nuts/sm/6.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/lock-nuts/7.jpg" alt="">
+              <img src="images/gallery/lock-nuts/sm/7.jpg" alt="">
             </div>
           </div>
           <div class="flex-item">
             <div>
               <a href="https://goo.gl/photos/XB81C4jFfgN8FPAx5">
-                <img src="images/gallery/lock-nuts/8.jpg" alt="">
+                <img src="images/gallery/lock-nuts/sm/8.jpg" alt="">
               </a>
               <div class="overlay"></div>
             </div>
@@ -161,23 +161,23 @@
 
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/wheel/1.jpg" alt="">
+              <img src="images/gallery/wheel/sm/1.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/wheel/2.jpg" alt="">
+              <img src="images/gallery/wheel/sm/2.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/wheel/3.jpg" alt="">
+              <img src="images/gallery/wheel/sm/3.jpg" alt="">
             </div>
           </div>
           <div class="flex-item">
             <div>
               <a href="https://goo.gl/photos/4KtMcEJ7qExFh24s7">
-                <img src="images/gallery/wheel/4.jpg" alt="">
+                <img src="images/gallery/wheel/sm/4.jpg" alt="">
               </a>
               <div class="overlay"></div>
             </div>
@@ -191,83 +191,83 @@
 
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/1.jpg" alt="">
+              <img src="images/gallery/specialty/sm/1.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/2.jpg" alt="">
+              <img src="images/gallery/specialty/sm/2.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/3.jpg" alt="">
+              <img src="images/gallery/specialty/sm/3.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/4.jpg" alt="">
+              <img src="images/gallery/specialty/sm/4.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/5.jpg" alt="">
+              <img src="images/gallery/specialty/sm/5.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/6.jpg" alt="">
+              <img src="images/gallery/specialty/sm/6.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/7.jpg" alt="">
+              <img src="images/gallery/specialty/sm/7.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/8.jpg" alt="">
+              <img src="images/gallery/specialty/sm/8.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/9.jpg" alt="">
+              <img src="images/gallery/specialty/sm/9.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/10.jpg" alt="">
+              <img src="images/gallery/specialty/sm/10.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/11.jpg" alt="">
+              <img src="images/gallery/specialty/sm/11.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/12.jpg" alt="">
+              <img src="images/gallery/specialty/sm/12.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/13.jpg" alt="">
+              <img src="images/gallery/specialty/sm/13.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/14.jpg" alt="">
+              <img src="images/gallery/specialty/sm/14.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/specialty/15.jpg" alt="">
+              <img src="images/gallery/specialty/sm/15.jpg" alt="">
             </div>
           </div>
           <div class="flex-item">
             <div>
               <a href="https://goo.gl/photos/Sj3MfCYFy2fbKoiX9">
-                <img src="images/gallery/specialty/16.jpg" alt="">
+                <img src="images/gallery/specialty/sm/16.jpg" alt="">
               </a>
               <div class="overlay"></div>
             </div>
@@ -280,23 +280,23 @@
         <div class="slideshow-gallery flex-container">
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/bfpsw/1.jpg" alt="">
+              <img src="images/gallery/bfpsw/sm/1.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/bfpsw/2.jpg" alt="">
+              <img src="images/gallery/bfpsw/sm/2.jpg" alt="">
             </div>
           </div>
           <div class="gallery-item flex-item">
             <div>
-              <img src="images/gallery/bfpsw/3.jpg" alt="">
+              <img src="images/gallery/bfpsw/sm/3.jpg" alt="">
             </div>
           </div>
           <div class="flex-item">
             <div>
               <a href="https://goo.gl/photos/iyXs4SJjA95JYReA6">
-                <img src="images/gallery/bfpsw/4.jpg" alt="">
+                <img src="images/gallery/bfpsw/sm/4.jpg" alt="">
               </a>
               <div class="overlay"></div>
             </div>
