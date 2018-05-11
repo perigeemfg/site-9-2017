@@ -20,7 +20,7 @@
         <div class="wrapper">
           <h2>Screw Machining / CNC</h2>
           <ul>
-            <li>Brown &amp; Sharpe Single Spindle Screw Machine</li>
+            <li>Brown &amp; Sharpe Single Spindle Screw Machines</li>
             <li>Acme Gridley Multi Spindle Screw Machines</li>
             <li>Davenport Multi Spindle Screw Machines</li>
             <li>CNC Vertical Machining (incl. 4th axis)</li>

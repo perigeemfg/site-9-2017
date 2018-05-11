@@ -6,7 +6,8 @@
         <h1>Quality</h1>
         <p>Perigee Manufacturing Company, Inc. meets the highest quality standards by employing stringent process controls throughout all manufacturing operations.   Our precision manufacturing process allows us to satisfy the most demanding product and quality requirements in all industries served.</p>
         <ul>
-          <li> Full on-site inspection lab (Dimensional, Optical/Visual, Surface Finish, Hardness, Proof Load, Prevailing Torque, Clamp Load, Permeability &amp; more) </li>
+          <li> Full on-site inspection lab</li>
+          <li> (Dimensional, Optical/Visual, Surface Finish, Hardness, Proof Load, Prevailing Torque, Clamp Load, Permeability &amp; more) </li>
           <li> Government, industry, safety &amp; regulatory compliance</li>
           <li> Computer Aided Manufacturing (CAM)</li>
           <li> Statistical Process Controls (SPC)</li>
@@ -21,9 +22,9 @@
 
         <h2> Certifications</h2>
         <ul>
-          <li> ISO 9001:2015</li>
-          <li> QSLM Class 2 &amp; 3</li>
-          <li> CAGE 1X4X7</li>
+          <li><strong>ISO 9001:2015</strong></li>
+          <li><strong>QSLM Class 2 &amp; 3</strong></li>
+          <li><strong>CAGE 1X4X7</strong></li>
         </ul>
 
       </section>
